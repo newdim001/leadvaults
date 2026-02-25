@@ -1,5 +1,8 @@
 {
   "name": "leadvaults",
   "version": "1.0.0",
-  "description": "Fresh Leads Delivered Daily"
+  "dependencies": {
+    "stripe": "^14.0.0",
+    "resend": "^3.0.0"
+  }
 }
